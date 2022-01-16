@@ -16,3 +16,4 @@
 
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/csharp%20-%2320232a.svg?&style=for-the-badge&logo=csharp&logoColor=%2361DAFB" />
+<img align="left" alt="react" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
