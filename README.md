@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning some Rust
 
 ![](https://www.barantutal.com.tr/overview.svg)
-![](https://github.com/barantutal/github-stats/blob/master/generated/languages.svg)
+![](https://www.barantutal.com.tr/languages.svg)
 
 ## Connect with me
 
