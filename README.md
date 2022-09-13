@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning some Rust
+I’m currently learning some Rust
 
 ![](https://www.barantutal.com.tr/overview.svg)
 ![](https://www.barantutal.com.tr/languages.svg)
