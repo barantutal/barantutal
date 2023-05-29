@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![](https://www.barantutal.com.tr/overview.svg)
-![](https://www.barantutal.com.tr/languages.svg)
 
 ## Connect with me
 
